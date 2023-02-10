@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PROYECTO-4-Aplicaci-n-Restaurante-/static/css/main.f2398a0d.css",
+    "main.js": "/PROYECTO-4-Aplicaci-n-Restaurante-/static/js/main.88b723e6.js",
+    "static/media/about.png": "/PROYECTO-4-Aplicaci-n-Restaurante-/static/media/about.5cfaf8a99d5231051570.png",
+    "static/media/banner.png": "/PROYECTO-4-Aplicaci-n-Restaurante-/static/media/banner.192d127276189eb9c330.png",
+    "static/media/contact.png": "/PROYECTO-4-Aplicaci-n-Restaurante-/static/media/contact.53806b7daa8d1ecfff9d.png",
+    "static/media/s1.png": "/PROYECTO-4-Aplicaci-n-Restaurante-/static/media/s1.8a4fa4559949141455f1.png",
+    "static/media/s2.png": "/PROYECTO-4-Aplicaci-n-Restaurante-/static/media/s2.b0665d1810c1ae19dfa3.png",
+    "static/media/hambu.jpg": "/PROYECTO-4-Aplicaci-n-Restaurante-/static/media/hambu.c46b659e15828a5469d6.jpg",
+    "index.html": "/PROYECTO-4-Aplicaci-n-Restaurante-/index.html",
+    "main.f2398a0d.css.map": "/PROYECTO-4-Aplicaci-n-Restaurante-/static/css/main.f2398a0d.css.map",
+    "main.88b723e6.js.map": "/PROYECTO-4-Aplicaci-n-Restaurante-/static/js/main.88b723e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2398a0d.css",
+    "static/js/main.88b723e6.js"
+  ]
+}
